@@ -1,0 +1,7 @@
+game
+game.exe
+*.o
+*.out
+students.txt
+report.txt
+.vscode/
